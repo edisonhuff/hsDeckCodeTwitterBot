@@ -1,0 +1,30 @@
+{
+  "name": "hsdeckcodetwitterbot",
+  "version": "1.0.0",
+  "description": "A twitter bot that reposts mobile friendly deck codes",
+  "main": "bot.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edisonhuff/hsDeckCodeTwitterBot.git"
+  },
+  "keywords": [
+    "Twitter",
+    "Hearthstone",
+    "Bot",
+    "Deck",
+    "Code"
+  ],
+  "author": "Edison Huff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edisonhuff/hsDeckCodeTwitterBot/issues"
+  },
+  "homepage": "https://github.com/edisonhuff/hsDeckCodeTwitterBot#readme",
+  "dependencies": {
+    "deckstrings": "^2.0.0",
+    "twit": "^2.2.9"
+  }
+}
